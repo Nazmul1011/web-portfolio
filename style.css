@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.hilight{
+    color: salmon;
+}
+
+
+h1{
+     font-size: 50px;
+     
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 100%;
+
+}
+section{
+    height: 500px;
+
+}
+.top-banner{
+    background-image: url("developer-portfolio/top-banner.png");
+    background-repeat: no-repeat;
+}
+.hello{
+    text-decoration: none;
+    background-image: linear-gradient(  salmon,tomato);
+    
+    padding: 10px 10px;
+    border-radius: 10%;
+    font-weight: 700;
+    color: rgb(151, 169, 184);
+}
